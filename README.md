@@ -1,1 +1,1 @@
-# galimybiu_studija_3d_skenavimas
+# Galimybių studija dirbtinio intelekto bei aparatinės įrangos taikymams kultūros paveldo objektų 3D skenavimui
